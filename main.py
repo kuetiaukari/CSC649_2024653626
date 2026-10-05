@@ -1,4 +1,3 @@
-# Updated: Tested input edge cases for Requirement 4
 # CSC649: My first Python experiment
 
 sentence = input("Enter a sentence: ")
